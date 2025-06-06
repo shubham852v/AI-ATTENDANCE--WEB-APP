@@ -168,8 +168,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/your_twitter_handle) (Optional)
-Your Email - your.email@example.com
+Your Name - Shubham V.
+Your Email - shubham852v@gmail.com
 
 Project Link: (https://attendance-system-local.web.app/)
 
