@@ -1,4 +1,5 @@
-# MY-ATTENDANCE-APP
+# AI-ATTENDANCE--WEB-APP
+Project Link: (https://attendance-system-local.web.app/)
 
 _Transforming attendance into effortless engagement and insight._
 
@@ -171,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Your Name - Shubham V.
 Your Email - shubham852v@gmail.com
 
-Project Link: (https://attendance-system-local.web.app/)
+
 
 ---
 
